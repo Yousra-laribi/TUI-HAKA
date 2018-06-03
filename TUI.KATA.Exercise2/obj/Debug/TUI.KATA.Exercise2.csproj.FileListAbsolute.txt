@@ -1,0 +1,12 @@
+c:\users\yousra\documents\visual studio 2015\Projects\TUI.KATA.Exercise2\TUI.KATA.Exercise2\bin\Debug\TUI.KATA.Exercise2.exe.config
+c:\users\yousra\documents\visual studio 2015\Projects\TUI.KATA.Exercise2\TUI.KATA.Exercise2\bin\Debug\TUI.KATA.Exercise2.exe
+c:\users\yousra\documents\visual studio 2015\Projects\TUI.KATA.Exercise2\TUI.KATA.Exercise2\bin\Debug\TUI.KATA.Exercise2.pdb
+c:\users\yousra\documents\visual studio 2015\Projects\TUI.KATA.Exercise2\TUI.KATA.Exercise2\obj\Debug\TUI.KATA.Exercise2.csprojResolveAssemblyReference.cache
+c:\users\yousra\documents\visual studio 2015\Projects\TUI.KATA.Exercise2\TUI.KATA.Exercise2\obj\Debug\TUI.KATA.Exercise2.exe
+c:\users\yousra\documents\visual studio 2015\Projects\TUI.KATA.Exercise2\TUI.KATA.Exercise2\obj\Debug\TUI.KATA.Exercise2.pdb
+D:\Arolla\TUI\TUI.KATA.Exercise2\TUI.KATA.Exercise2\bin\Debug\TUI.KATA.Exercise2.exe.config
+D:\Arolla\TUI\TUI.KATA.Exercise2\TUI.KATA.Exercise2\obj\Debug\TUI.KATA.Exercise2.exe
+D:\Arolla\TUI\TUI.KATA.Exercise2\TUI.KATA.Exercise2\obj\Debug\TUI.KATA.Exercise2.pdb
+D:\Arolla\TUI\TUI.KATA.Exercise2\TUI.KATA.Exercise2\bin\Debug\TUI.KATA.Exercise2.exe
+D:\Arolla\TUI\TUI.KATA.Exercise2\TUI.KATA.Exercise2\bin\Debug\TUI.KATA.Exercise2.pdb
+D:\Arolla\TUI\TUI.KATA.Exercise2\TUI.KATA.Exercise2\obj\Debug\TUI.KATA.Exercise2.csprojResolveAssemblyReference.cache
